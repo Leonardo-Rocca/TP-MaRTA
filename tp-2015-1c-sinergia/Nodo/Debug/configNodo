@@ -1,0 +1,7 @@
+puertoFS,8888
+ipFS,127.0.0.1
+nodoNuevo,S
+ipNodo,127.0.0.1
+puertoNodo,7000
+tamanioNodo,2147483648
+dirTemp,/home/utnso/temp

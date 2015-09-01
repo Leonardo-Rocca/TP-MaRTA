@@ -1,0 +1,11 @@
+ip,127.0.0.1
+puerto,6666
+mapper,/home/utnso/mapper
+reducer,/home/utnso/reducer
+combiner,S
+archivo1,/home/utnso/mr/textos/gutenberg.txt
+archivo2,/home/utnso/mr/textos/linux.txt
+archivo3,/home/utnso/mr/textos/kernel.txt
+resultado,/home/utnso/output/job4/rep-letras.txt
+
+

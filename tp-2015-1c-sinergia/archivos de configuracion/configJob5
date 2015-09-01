@@ -1,0 +1,9 @@
+ip,127.0.0.1
+puerto,6666
+mapper,/home/utnso/basic_sentiment_analysis.py
+reducer,/home/utnso/top-sent.pl
+combiner,N
+archivo1,/home/utnso/sentiment/tweets.csv
+resultado,/home/utnso/output/job5/tweets-sent.csv
+
+

@@ -1,0 +1,10 @@
+ip,127.0.0.1
+puerto,6666
+mapper,/home/utnso/mapper.sh
+reducer,/home/utnso/reduce.pl
+combiner,S
+archivo1,/home/utnso/mr/weather/201301hourly.txt
+archivo2,/home/utnso/mr/weather/201302hourly.txt
+archivo3,/home/utnso/mr/weather/201303hourly.txt
+archivo4,/home/utnso/mr/weather/201304hourly.txt
+resultado,/home/utnso/output/job1/max-temps

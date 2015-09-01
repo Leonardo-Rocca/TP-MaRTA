@@ -1,0 +1,7 @@
+ip,127.0.0.1
+puerto,6666
+mapper,/home/utnso/mapper.sh
+reducer,/home/utnso/reduce.pl
+combiner,N
+archivo1,/home/utnso/Escritorio/201307hourly.txt
+resultado,/home/utnso/Escritorio/asd.txt

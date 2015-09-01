@@ -1,0 +1,32 @@
+[INFO] 06:34:51:122 Job/(16555:16555): Conexion con Marta exitosa usando ipMarta: 127.0.0.1 puertoMarta: 6666
+[INFO] 06:34:51:124 Job/(16555:16555): cabecera enviada: M por lo tanto va a mapear
+[INFO] 06:34:51:125 Job/(16555:16555): Hilo creado para mappear los bloques del archivo solicitado del nodo cuya ip es: 127.0.0.1
+[INFO] 06:34:56:954 Job/(16555:16583): Finalizacion de hilo de  Mapp
+[INFO] 06:34:58:635 Job/(16555:16562): Finalizacion de hilo de  Mapp
+[INFO] 06:35:06:808 Job/(16555:16565): Finalizacion de hilo de  Mapp
+[INFO] 06:35:06:828 Job/(16555:16571): Finalizacion de hilo de  Mapp
+[INFO] 06:35:07:39 Job/(16555:16579): Finalizacion de hilo de  Mapp
+[INFO] 06:35:07:119 Job/(16555:16576): Finalizacion de hilo de  Mapp
+[INFO] 06:35:07:420 Job/(16555:16568): Finalizacion de hilo de  Mapp
+[INFO] 06:35:19:757 Job/(16555:16582): Finalizacion de hilo de  Mapp
+[INFO] 06:35:20:566 Job/(16555:16580): Finalizacion de hilo de  Mapp
+[INFO] 06:35:20:602 Job/(16555:16584): Finalizacion de hilo de  Mapp
+[INFO] 06:35:32:928 Job/(16555:16570): Finalizacion de hilo de  Mapp
+[INFO] 06:35:35:248 Job/(16555:16581): Finalizacion de hilo de  Mapp
+[INFO] 06:35:41:408 Job/(16555:16585): Finalizacion de hilo de  Mapp
+[INFO] 06:35:47:653 Job/(16555:16575): Finalizacion de hilo de  Mapp
+[INFO] 06:35:50:323 Job/(16555:16573): Finalizacion de hilo de  Mapp
+[INFO] 06:35:50:393 Job/(16555:16566): Finalizacion de hilo de  Mapp
+[INFO] 06:35:51:207 Job/(16555:16567): Finalizacion de hilo de  Mapp
+[INFO] 06:35:51:963 Job/(16555:16569): Finalizacion de hilo de  Mapp
+[INFO] 06:35:52:953 Job/(16555:16560): Finalizacion de hilo de  Mapp
+[INFO] 06:35:54:9 Job/(16555:16574): Finalizacion de hilo de  Mapp
+[INFO] 06:35:54:344 Job/(16555:16577): Finalizacion de hilo de  Mapp
+[INFO] 06:35:55:742 Job/(16555:16572): Finalizacion de hilo de  Mapp
+[INFO] 06:35:56:246 Job/(16555:16563): Finalizacion de hilo de  Mapp
+[INFO] 06:35:56:274 Job/(16555:16578): Finalizacion de hilo de  Mapp
+[INFO] 06:35:56:329 Job/(16555:16564): Finalizacion de hilo de  Mapp
+[INFO] 06:35:56:826 Job/(16555:16561): Finalizacion de hilo de  Mapp
+[INFO] 06:35:56:826 Job/(16555:16555): cabecera enviada: R por lo tanto va a reducir
+[INFO] 06:36:13:422 Job/(16555:16762): Hilo creado para reducir los bloques del archivo solicitado del nodo cuya ip es: 127.0.0.1
+[INFO] 06:36:13:423 Job/(16555:16762): Finalizacion de hilo de  Reduce

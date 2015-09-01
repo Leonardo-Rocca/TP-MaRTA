@@ -1,0 +1,9 @@
+ip,127.0.0.1
+puerto,6666
+mapper,/home/utnso/map.py
+reducer,/home/utnso/reduce.py
+combiner,S
+archivo1,/home/utnso/mr/textos/gutenberg.txt
+archivo2,/home/utnso/mr/textos/linux.txt
+resultado,/home/utnso/output/job2/textos-comb.txt
+
